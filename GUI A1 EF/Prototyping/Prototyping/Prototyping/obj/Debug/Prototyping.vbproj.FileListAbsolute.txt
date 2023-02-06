@@ -1,0 +1,10 @@
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\Prototyping\Prototyping\Prototyping\bin\Debug\Prototyping.exe
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\Prototyping\Prototyping\Prototyping\bin\Debug\Prototyping.pdb
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\Prototyping\Prototyping\Prototyping\bin\Debug\Prototyping.xml
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\Prototyping\Prototyping\Prototyping\obj\Debug\ResolveAssemblyReference.cache
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\Prototyping\Prototyping\Prototyping\obj\Debug\Prototyping.Form1.resources
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\Prototyping\Prototyping\Prototyping\obj\Debug\Prototyping.Resources.resources
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\Prototyping\Prototyping\Prototyping\obj\Debug\Prototyping.vbproj.GenerateResource.Cache
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\Prototyping\Prototyping\Prototyping\obj\Debug\Prototyping.exe
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\Prototyping\Prototyping\Prototyping\obj\Debug\Prototyping.xml
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\Prototyping\Prototyping\Prototyping\obj\Debug\Prototyping.pdb

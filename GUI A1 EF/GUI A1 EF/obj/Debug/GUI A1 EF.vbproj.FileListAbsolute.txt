@@ -1,0 +1,30 @@
+C:\Users\student\AppData\Local\Temporary Projects\GUI A1 EF\bin\Debug\GUI A1 EF.exe
+C:\Users\student\AppData\Local\Temporary Projects\GUI A1 EF\bin\Debug\GUI A1 EF.pdb
+C:\Users\student\AppData\Local\Temporary Projects\GUI A1 EF\bin\Debug\GUI A1 EF.xml
+C:\Users\student\AppData\Local\Temporary Projects\GUI A1 EF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\student\AppData\Local\Temporary Projects\GUI A1 EF\obj\Debug\GUI_A1_EF.FrmLogin.resources
+C:\Users\student\AppData\Local\Temporary Projects\GUI A1 EF\obj\Debug\GUI_A1_EF.Resources.resources
+C:\Users\student\AppData\Local\Temporary Projects\GUI A1 EF\obj\Debug\GUI A1 EF.vbproj.GenerateResource.Cache
+C:\Users\student\AppData\Local\Temporary Projects\GUI A1 EF\obj\Debug\GUI A1 EF.exe
+C:\Users\student\AppData\Local\Temporary Projects\GUI A1 EF\obj\Debug\GUI A1 EF.xml
+C:\Users\student\AppData\Local\Temporary Projects\GUI A1 EF\obj\Debug\GUI A1 EF.pdb
+D:\GUI\Student_Record_Management_System\GUI A1 EF\GUI A1 EF\obj\Debug\GUI A1 EF.exe
+D:\GUI\Student_Record_Management_System\GUI A1 EF\GUI A1 EF\obj\Debug\GUI A1 EF.xml
+D:\GUI\Student_Record_Management_System\GUI A1 EF\GUI A1 EF\obj\Debug\GUI A1 EF.pdb
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\GUI A1 EF\obj\Debug\GUI A1 EF.exe
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\GUI A1 EF\obj\Debug\GUI A1 EF.xml
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\GUI A1 EF\obj\Debug\GUI A1 EF.pdb
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\GUI A1 EF\bin\Debug\GUI A1 EF.exe
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\GUI A1 EF\bin\Debug\GUI A1 EF.pdb
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\GUI A1 EF\bin\Debug\GUI A1 EF.xml
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\GUI A1 EF\obj\Debug\ResolveAssemblyReference.cache
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\GUI A1 EF\obj\Debug\GUI_A1_EF.A1Splash.resources
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\GUI A1 EF\obj\Debug\GUI_A1_EF.FrmLogin.resources
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\GUI A1 EF\obj\Debug\GUI_A1_EF.Resources.resources
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\GUI A1 EF\obj\Debug\GUI A1 EF.vbproj.GenerateResource.Cache
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\GUI A1 EF\obj\Debug\GUI_A1_EF.FrmMenu.resources
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\GUI A1 EF\obj\Debug\GUI_A1_EF.FrmAddRecords.resources
+D:\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\GUI A1 EF\obj\Debug\GUI_A1_EF.FrmDisplayRecords.resources
+C:\Users\eoin0\OneDrive\Rathmines\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\GUI A1 EF\obj\Debug\GUI A1 EF.exe
+C:\Users\eoin0\OneDrive\Rathmines\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\GUI A1 EF\obj\Debug\GUI A1 EF.xml
+C:\Users\eoin0\OneDrive\Rathmines\Eoin's Rathmines Work\Eoin's VB - GUI Programming\GUI A1 EF\GUI A1 EF\obj\Debug\GUI A1 EF.pdb

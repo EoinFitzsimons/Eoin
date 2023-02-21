@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Shop: Registration</title>
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+	<div class="NavBar">
+			
+			<img src="Images/Hot Wheels Shop.png" alt="Hot Wheels Shop Icon">
+			
+			
+			<a href="index.html">Home</a>
+			<a href="login.html">Login</a>
+			<a href="registration.html">Register</a>
+			
+			
+			
+			
+	</div>
+	<div class="Title">
+		<h1>Registration</h1>
+	</div>
+	<form action="RegistrationServlet" method="get" class="form">
+		<!-- Start of form-->
+
+	<div class="Paragraph">
+		<p>Please enter your details in the requested fields and click
+			"register"</p>
+
+
+		<p>Username:</p>
+
+		<p>
+			<input type="text" placeholder="Select Username" name="name" required/>   
+		</p>
+
+		<p>Password:</p>
+
+		<p>
+			<input type="password" placeholder="Select Password" name="pass" required/>
+		</p>
+		
+		<p>Email:</p>
+
+		<p>
+			<input type="email" placeholder="Enter email" name="email" required>  
+		</p>	
+
+		<p>Postal Region:</p>
+
+		<p>
+			<select required name="PostalRegion">
+				<option disabled selected value> -- Select An Option -- </option>
+				<option>Africa</option>
+				<option>Australia</option>
+				<option>Asia</option>
+				<option>Europe</option>
+				<option>North America</option>
+				<option>South America</option>
+			</select>
+		</p>
+
+
+
+		<p><input type="submit" value="Register" /></p>
+	</div>
+	<div class="Paragraph2">
+		<p>Already have an account? <a href="login.html">Sign in</a>.</p>
+	</div>
+
+	</form>
+	<!-- end of form-->
+
+</body>
+<footer>
+	<div class="Footer">
+		<p>© 2023 Hot Wheels Shop</p>
+	</div>
+</footer>
+</html>
